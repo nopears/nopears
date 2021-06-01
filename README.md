@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nopears
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning creating Angular apps

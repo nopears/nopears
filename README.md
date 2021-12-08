@@ -3,8 +3,8 @@
 
 ## 📮Social
 
-<a href="https://t.me/whitepear"><img src="icons/telegram.png" height="20px"></img></a>
-<a href="https://collabteam.dev/pages/profile/4"><img src="icons/collabteam.ico" height="20px"></img></a>
+<a href="https://t.me/whitepear"><img src="icons/telegram.png" height="30px"></img></a>
+<a href="https://collabteam.dev/pages/profile/4"><img src="icons/collabteam.ico" height="30px"></img></a>
 
 ## 📚Technology stack
 **Backend**

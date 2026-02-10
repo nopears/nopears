@@ -1,21 +1,25 @@
 ## 👋 Hi, I’m @nopears
-### I'm a Junior Full-Stack developer
+### I'm Middle/Middle+ Back-End developer and Junior Front-End 
 
 ## 📮Social
 
-<a href="https://t.me/whitepear"><img src="icons/telegram.png" height="30px"></img></a>
-<a href="https://collabteam.dev/pages/profile/4"><img src="icons/collabteam.ico" height="30px"></img></a>
+<a href="https://t.me/nopears"><img src="icons/telegram.png" height="30px"></img></a>
 
 ## 📚Technology stack
 **Backend**
 
-![NodeJS](https://img.shields.io/badge/-NodeJS-white?style=flat-square&logo=Node.JS)
+![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=Django)
+![NodeJS](https://img.shields.io/badge/-NodeJS-white?style=flat-square&logo=NodeJS)
+![NestJS](https://img.shields.io/badge/-NestJS-red?style=flat-square&logo=NestJS)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-grey?style=flat-square&logo=ExpressJS)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-63001f?style=flat-square&logo=GraphQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-darkgrey?style=flat-square&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-lightgreen?style=flat-square&logo=MongoDB)
 
 **Frontend**
 
+![NuxtJS](https://img.shields.io/badge/-NuxtJS-black?style=flat-square&logo=Nuxt)
+![VueJS](https://img.shields.io/badge/-VueJS-darkgrey?style=flat-square&logo=vuedotjs)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/-React-1d3c6e?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -27,8 +31,12 @@
 **Tools**
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+![NeoVim](https://img.shields.io/badge/-Neovim-black?style=flat-square&logo=Neovim)
+![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=PyCharm)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=webstorm)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 ![VSCode](https://img.shields.io/badge/-VSCode-10102b?style=flat-square&logo=visualstudiocode)
 
 ## 📊Stats

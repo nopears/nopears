@@ -9,7 +9,7 @@
 **Backend**
 
 ![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=Django)
-![NodeJS](https://img.shields.io/badge/-NodeJS-white?style=flat-square&logo=NodeJS)
+![NodeJS](https://img.shields.io/badge/-NodeJS-white?style=flat-square&logo=NodedotJS)
 ![NestJS](https://img.shields.io/badge/-NestJS-red?style=flat-square&logo=NestJS)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-grey?style=flat-square&logo=ExpressJS)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-63001f?style=flat-square&logo=GraphQL)

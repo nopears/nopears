@@ -37,9 +37,9 @@
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=webstorm)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
-![VSCode](https://img.shields.io/badge/-VSCode-10102b?style=flat-square&logo=visualstudiocode)
+![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode)
 
 ## 📊Stats
 
-![nopears github stats](https://github-readme-stats.vercel.app/api?username=nopears&show_icons=true&theme=ocean_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nopears&layout=compact&theme=ocean_dark)
+![nopears github stats](https://github-readme-stats.vercel.app/api?username=nopears&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nopears&layout=compact&theme=gruvbox)
